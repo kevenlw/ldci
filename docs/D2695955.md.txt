@@ -1,0 +1,206 @@
+A|S2695991|Fundamentals of Resource Description Framework
+B|S2696001|Identity in RDF
+C|S2731548|Knows that anything can be named with Uniform Resource Identifiers (URIs), such as agents, places, events, artifacts, and concepts.
+C|S2742438|Understands that a "real-world" thing may need to be named with a URI distinct from the URI for information about that thing.
+C|S2742439|Recognizes that URIs are "owned" by the owners of their respective Internet domains.
+C|S2709286|Knows that Uniform Resource Identifiers, or URIs (1994), include Uniform Resource Locators (URLs, which locate web pages) as well as location-independent identifiers for physical, conceptual, or web resources.
+B|S2696007|RDF data model
+C|S2709296|Knows the subject-predicate-object component structure of a triple.
+C|S2709295|Understands the difference between literals and non-literal resources.
+C|S2709297|Understands that URIs and literals denote things in the world ("resources") real, imagined, or conceptual.
+C|S2709298|Understands that resources are declared to be members (instances) of classes using the property rdf:type.
+C|S2709299|Understands the use of datatypes and language tags with literals.
+C|S2709997|Understands blank nodes and their uses.
+C|S2710003|Understands that QNames define shorthand prefixes for long URIs.
+D|S2710007|Uses prefixes for URIs in RDF specifications and data.
+C|S2731549|Articulates differences between the RDF abstract data model and the XML and relational models.
+C|S2731551|Understands the RDF abstract data model as a directed labeled graph.
+C|S2731552|Knows graphic conventions for depicting RDF-based models.
+D|S2731553|Can use graphing or modeling software to share those models with others.
+C|S2709875|Understands a named graph as one of the collection of graphs comprising an RDF dataset, with a graph name unique in the context of that dataset.
+C|S2731590|Understands how a namespace, informally used in the RDF context for a namespace URI or RDF vocabulary, fundamentally differs from the namespace of data attributes and functions (methods) defined for an object-oriented class.
+B|S2696012|Related data models
+C|S2731554|Grasps essential differences between schemas for syntactic validation (e.g., XML) and for inferencing (RDF Schema).
+C|S2731555|Differentiates hierarchical document models (eg, XML) and graph models (RDF).
+C|S2742440|Understands how an RDF class (named set of things) fundamentally differs from an object-oriented programming class, which defines a type of object bundling "state" (attributes with data values) and "behavior" (functions that operate on state).
+B|S2696017|RDF serialization
+C|S2709805|Understands RDF serializations as interchangeable encodings of a given set of triples (RDF graph).
+D|S2731558|Uses tools to convert RDF data between different serializations.
+C|S2731556|Distinguishes the RDF abstract data model and concrete serializations of RDF data.
+D|S2731557|Expresses data in serializations such as RDF/XML, N-Triples, Turtle, N3, Trig, JSON-LD, and RDFa.
+A|S2695997|Fundamentals of Linked Data
+B|S2696025|Web technology
+C|S2742442|Knows the origins of the World Wide Web (1989) as a non-linear interactive system, or hypermedia, built on the Internet.
+C|S2742443|Understands that Linked Data (2006) extended the notion of a web of documents (the Web) to a notion of a web of finer-grained data (the Linked Data cloud).
+C|S2742444|Knows HyperText Markup Language, or HTML (1991+), as a language for "marking up" the content and multimedia components of Web pages.
+C|S2742445|Knows HTML5 (2014) as a version of HTML extended with support for complex web and mobile applications.
+C|S2742446|Knows Hypertext Transfer Protocol, or HTTP (1991+), as the basic technology for resolving hyperlinks and transferring data on the World Wide Web.
+C|S2742447|Knows Representational State Transfer, or REST (2000) as a software architectural style whereby browsers can exchange data with web servers, typically on the basis of well-known HTTP actions.
+B|S2696027|Linked Data principles
+C|S2696031|Knows Tim Berners-Lee's principles of Linked Data: use URIs to name things, use HTTP URIs that can be resolved to useful information, and create links to URIs of other things.
+C|S2742441|Knows the "five stars" of Open Data: put data on the Web, preferably in a structured and preferably non-proprietary format, using URIs to name things, and link to other data.
+B|S2696036|Linked Data policies and best practices
+C|S2731559|Knows the primary organizations related to Linked Data standardization.
+D|S2731560|Participates in developing standards and best practice with relevant organizations such as W3C.
+B|S2696039|Non-RDF linked data
+A|S2696018|RDF vocabularies and application profiles
+B|S2696044|Finding RDF-based vocabularies
+D|S2731567|[MOVE] Knows portals and registries for finding RDF-based vocabularies.
+D|S2696094|Finds properties and classes in the Linked Open Vocabularies (LOV) observatory and explores their versions and dependencies.
+B|S2731561|Designing RDF-based vocabularies
+C|S2731562|Uses RDF Schema to express semantic relationships within a vocabulary.
+D|S2731563|Correctly uses sub-class relationships in support of inference.
+D|S2731564|Correctly uses sub-property relationships in support of inference.
+C|S2731566|Reuses published properties and classes where available.
+C|S2731568|Coins namespace URIs, as needed, for any new properties and classes required.
+D|S2731569|Drafts a policy for coining URIs for properties and classes.
+D|S2731570|Chooses "hash"- or "slash"-based URI patterns based on requirements.
+C|S2742449|Knows Web Ontology Language, or OWL (2004), as a RDF vocabulary of properties and classes that extend support for expressive data modeling and automated inferencing (reasoning).
+C|S2742450|Knows that the word "ontology" is ambiguous, referring to any RDF vocabulary, but more typically a set of OWL classes and properties designed to support inferencing in a specific domain.
+C|S2742451|Knows Simple Knowledge Organization System, or SKOS (2009), an RDF vocabulary for expressing concepts that are labeled in natural languages, organized into informal hierarchies, and aggregated into concept schemes.
+C|S2742452|Knows SKOS eXtension for Labels, or SKOS-XL (2009), a small set of additional properties for describing and linking lexical labels as instances of the class Label.
+C|S2742453|Understands that in a formal sense, a SKOS concept is not an RDF class but an instance and, as such, is not formally associated with a set of instances ("class extension").
+C|S2742454|Understands that SKOS can express a flexibly associative structure of concepts without enabling the more rigid and automatic inferences typically specified in a class-based OWL ontology.
+C|S2742455|Understands that in contrast to OWL sub-class chains, hierarchies of SKOS concepts are designed not to form transitive chains automatically because this is not how humans think or organize information.
+C|S2731565|Knows the naming conventions for RDF properties and classes.
+B|S2696051|Maintaining RDF vocabularies
+C|S2731571|Understands policy options for persistence guarantees.
+D|S2731572|Can draft a persistence policy.
+B|S2696058|Versioning RDF vocabularies
+C|S2731573|Knows technical options for the form, content, and granularity of versions.
+C|S2742456|Understands the trade-offs between publishing RDF vocabularies in periodic, numbered releases versus more continual or incremental approaches.
+D|S2731574|Can express and justify a versioning policy.
+B|S2696061|Publishing RDF vocabularies
+C|S2731575|Understands the typical publication formats for RDF vocabularies and their relative advantages
+C|S2731576|Understands the purpose of publishing RDF vocabularies in multiple formats using content negotiation.
+C|S2742457|Understands that to be "dereferencable", a URI should be usable to retrieve a representation of the resource it identifies.
+D|S2742458|Ensures that when dereferenced by a Web browser, a URI returns a representation of the resource in human-readable HTML.
+D|S2742459|Ensures that when dereferenced by an RDF application, a URI returns representation of the resource in the requested RDF serialization syntax.
+B|S2696065|Mapping RDF vocabularies
+C|S2742460|Understands that the properties of hierarchical subsumption within an RDF vocabulary -- rdfs:subPropertyOf and rdfs:subClassOf -- can also be used to express mappings between vocabularies.
+C|S2742461|Understands that owl:equivalentProperty and owl:equivalentClass may be used when equivalencies between properties or between classes are exact.
+C|S2742448|Recognizes that owl:sameAs, while popular as a mapping property, has strong formal semantics that can entail unintended inferences.
+B|S2696069|RDF application profiles
+C|S2731577|Identifies real-world entities in an application domain as candidates for RDF classes.
+C|S2731578|Identifies resource attributes and relationships between domain entities as candidates for RDF properties.
+C|S2731579|Investigates how others have modeled the same or similar application domains.
+D|S2731580|Communicates a domain model with words and diagrams.
+D|S2731581|Participates in the social process of developing application profiles.
+A|S2696022|Creating and transforming Linked Data
+B|S2696076|Managing identifiers (URI)
+C|S2742462|Understands that to be "persistent", a URI must have a stable, well-documented meaning and be plausibly intended to identify a given resource in perpetuity.
+C|S2742463|Understands trade-offs between "opaque" URIs and URIs using version numbers, server names, dates, application-specific file extensions, query strings or other obsoletable context.
+C|S2742464|Recognizes the desirability of a published namespace policy describing an institution's commitment to the persistence and semantic stability of important URIs.
+B|S2696080|Creating RDF data
+C|S2731582|Generates RDF data from non-RDF sources.
+C|S2742465|Knows methods for generating RDF data from tabular data in formats such as Comma-Separated Values (CSV).
+C|S2742466|Knows methods such as Direct Mapping of Relational Data to RDF (2012) for transforming data from the relational model (keys, values, rows, columns, tables) into RDF graphs.
+B|S2696082|Versioning RDF data
+B|S2696083|RDF data provenance
+B|S2696084|Cleaning and reconciling RDF data
+C|S2731583|Cleans a dataset by finding and correcting errors, removing duplicates and unwanted data.
+B|S2696085|Mapping and enriching RDF data
+C|S2731584|Uses available resources for named entity recognition, extraction, and reconciliation.
+A|S2696023|Interacting with RDF data
+B|S2709893|Finding RDF data
+C|S2710042|Knows relevant resources for discovering existing Linked Data datasets.
+C|S2710039|Retrieves and accesses RDF data from the "open Web".
+C|S2710046|Monitors and updates lists which report the status of SPARQL endpoints.
+C|S2710054|Uses available vocabularies for dataset description to support their discovery.
+C|S2710057|Registers datasets with relevant services for discovery.
+B|S2696086|Processing RDF data using programming languages.
+C|S2742467|Understands how components of the RDF data model (datasets, graphs, statements, and various types of node) are expressed in the RDF library of a given programming language by constructs such as object-oriented classes.
+D|S2742468|Uses an RDF programming library to serialize RDF data in available syntaxes.
+D|S2742469|Uses RDF-specific programming methods to iterate over components of RDF data.
+D|S2742470|Uses RDF-library-specific convenience representations for common RDF vocabularies such as RDF, Dublin Core, and SKOS.
+C|S2742471|Programatically associates namespaces to prefixes for use in serializing RDF or when parsing SPARQL queries.
+D|S2742472|Uses RDF programming libraries to extract RDF data from CSV files, databases, or web pages.
+D|S2742473|Uses RDF programming libraries to persistently stores triples in memory, on disk, or to interact with triple stores.
+D|S2742474|Programatically infers triples using custom functions or methods.
+C|S2742475|Understands how the pattern matching of SPARQL queries can be expressed using functionally equivalent constructs in RDF programming libraries.
+D|S2742476|Uses RDF-specific programming methods to query RDF data and save the results for further processing.
+D|S2742477|Uses utilities and convenience functions the provide shortcuts for frequently used patterns, such as matching the multiple label properties used in real data.
+D|S2742478|Uses RDF libraries to process various types of SPARQL query result.
+B|S2696087|Querying RDF data
+C|S2708689|Understands that a SPARQL query matches an RDF graph against a pattern of triples with fixed and variable values.
+C|S2708688|Understands the basic syntax of a SPARQL query.
+D|S2708691|Uses angle brackets for delimiting URIs.
+D|S2708692|Uses question marks for indicating variables.
+D|S2708694|Uses PREFIX for base URIs.
+C|S2708695|Demonstrates a working knowledge of the forms and uses of SPARQL result sets (SELECT, CONSTRUCT, DESCRIBE, and ASK).
+D|S2708696|Uses the SELECT clause to identify the variables to appear in a table of query results.
+D|S2708697|Uses the WHERE clause to provide the graph pattern to match against the graph data.
+D|S2708698|Uses variables in SELECT and WHERE clauses to yield a table of results.
+D|S2708699|Uses ASK for a True/False result test for a match to a query pattern.
+D|S2708700|Uses DESCRIBE to extract a single graph containing RDF data about resources.
+D|S2708701|Uses CONSTRUCT to extract and transform results into a single RDF graph specified by a graph template.
+D|S2709273|Uses FROM to formulate queries with URLs and local files.
+C|S2708702|Understands how to combine and filter graph patterns using operators such as UNION, OPTIONAL, FILTER, and MINUS.
+D|S2708703|Uses UNION to formulate queries with multiple possible graph patterns.
+D|S2708704|Uses OPTIONAL to formulate queries to return the values of optional variables when available.
+D|S2708705|Uses FILTER to formulates queries that eliminate solutions from a result set.
+D|S2708706|Uses NOT EXISTS to limit whether a given graph pattern exists in the data.
+D|S2708707|Uses MINUS to remove matches from a result based on the evaluation of two patterns.
+D|S2708708|Uses NOT IN to restrict a variable to not being in a given set of values.
+C|S2708709|Understands the major SPARQL result set modifiers, e.g., to limit or sort results, or to return distinct results only once.
+D|S2708711|Uses ORDER BY to define ordering conditions by variable, function call, or expression.
+D|S2708712|Uses DISTINCT to ensure solutions in the sequence are unique.
+D|S2708713|Uses OFFSET to control where the solutions processed start in the overall sequence of solutions.
+D|S2708716|Uses LIMIT to restrict the number of solutions processed for query results.
+D|S2708717|Uses projection to transform a solution sequence into one involving only a subset of the variables.
+C|S2709147|Understands the use of SPARQL functions and operators.
+D|S2709148|Uses the regular expression (regex()) function for string matching.
+D|S2709157|Uses aggregates to apply expressions over groups of solutions (GROUP BY, COUNT, SUM, AVG, MIN) for partitioning results, evaluating projections, and filtering.
+D|S2709160|Uses the lang() function to return the language tag of an RDF literal.
+D|S2709164|Uses the langMatches() function to match a language tag against a language range.
+D|S2709168|Uses the xsd:decimal(expn) function to convert an expression to an integer.
+D|S2709174|Uses the GROUP BY clause to transforms a result set so that only one row will appear for each unique set of grouping variables.
+D|S2709181|Uses the HAVING clause to apply a filter to the result set after grouping.
+C|S2709246|Differentiates between a Default Graph and a Named Graph, and formulates queries using the GRAPH clause.
+D|S2709260|Formulates advanced queries using FROM NAMED and GRAPH on local data.
+D|S2709264|Formulates advanced queries using FROM NAMED on remote data.
+D|S2708693|Formulates advanced queries on data containing blank nodes.
+D|S2709265|Formulates advanced queries using subqueries.
+C|S2709266|Uses a temporary variable to extend a query.
+C|S2709267|Understands the role of Property Paths and how they are formed by combining predicates with regular expression-like operators.
+C|S2709268|Understands the concept of Federated Searches.
+D|S2709269|Formulates advanced queries on a remote SPARQL endpoint using the SERVICE directive.
+D|S2709270|Uses federated query to query over a local graph store and one or more other SPARQL endpoints.
+D|S2709271|Pulls data from a different SPARQL endpoints in one single query using the SERVICE directive.
+C|S2709272|Converts/manipulates SPARQL query outputs (RDF-XML, JSON) to the exact format required by a third party tools and APIs.
+C|S2709274|Reads and understands high-level descriptions of the classes and properties of a dataset in order to write queries.
+C|S2709275|Uses available tools, servers, and endpoints to issue queries against a dataset.
+D|S2709276|Execute SPARQL queries using the Jena ARQ command-line utility.
+D|S2709277|Queries multiple local data files using ARQ.
+D|S2709278|Uses ARQ to evaluate queries on local data.
+D|S2709279|Uses Fuseki server to evaluate queries on a dataset.
+D|S2709280|Queries multiple data files using Fuseki.
+D|S2709281|Accesses DBPedia's SNORQL/SPARQL endpoint and issues simple queries.
+B|S2696088|Visualizing RDF data
+C|S2709282|Uses publicly available tools to visualize data.
+D|S2709283|Uses Google FusionTables to create maps and charts.
+C|S2709284|Distills results taken from large datasets so that visualizations are human-friendly.
+C|S2742490|Converts/manipulates SPARQL query outputs (RDF-XML, JSON) to the exact format required by third party tools and APIs.
+B|S2696089|Reasoning over RDF data
+C|S2708690|Understands the principles and practice of inferencing.
+C|S2709285|Uses common entailment regimes and understands their uses.
+C|S2731586|Understands the role of formally declared domains and ranges for inferencing.
+C|S2731587|Understands how reasoning can be used for integrating diverse datasets.
+C|S2742479|Knows that Web Ontology Language (OWL) is available in multiple "flavors" that are variously optimized for expressivity, performant reasoning, or for applications involving databases or business rules.
+C|S2742480|Understands that OWL Full supports all available constructs and is most appropriately used when reasoning performance is not a concern.
+B|S2696090|Assessing RDF data quality
+B|S2696091|RDF data analytics
+C|S2709287|Uses available ontology browsing tools to explore the ontologies used in a particular dataset.
+B|S2709897|Manipulating RDF data
+C|S2709288|Knows the SPARQL 1.1 Update language for updating, creating, and removing RDF graphs in a Graph Store
+D|S2709290|Uses INSERT/DELETE to update triples.
+D|S2731588|Uses a CONSTRUCT query to preview changes before executing an INSERT/DELETE operation.
+C|S2709289|Knows the SPARQL 1.1 Graph Store HTTP protocol for updating graphs on a web server (in "restful" style).
+D|S2709291|Uses GET to retrieve triples from a default graph or a named graph.
+D|S2709292|Uses PUT to insert set of triples into a new graph (or replace an existing graph).
+D|S2709293|Uses DELETE to remove a graph.
+D|S2731589|Uses POST to add triples to an existing graph.
+D|S2709294|Uses proper syntax to request specific media types, such as Turtle.
+C|S2709930|Understands the difference between SQL query language (which operates on database tables) and SPARQL (which operates on RDF graphs).
+A|S2696024|Creating Linked Data applications
+B|S2696092|Storing RDF data
