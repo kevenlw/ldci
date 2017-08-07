@@ -1,6 +1,6 @@
 ### 能力指标编辑委员会
 
-[Tom Baker](https://github.com/tombaker),主席 <br>
+主席 :[Tom Baker](https://github.com/tombaker)<br>
 [Debbie Maron](https://github.com/debbiem) <br>
 [Kai Eckert](https://github.com/kaiec) <br>
 [Magnus Pfeffer](https://github.com/mapfde) <br>
