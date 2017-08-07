@@ -1,8 +1,8 @@
-### Structure of the Competency Index
+### 能力指标的结构
 
-The Linked Data Competency Index exemplifies a broader class of documents for describing curriculum standards and learning objectives or outcomes.  There is no one standard way to formulate a competency index -- or competency framework, as they are sometimes called.  The range of subjects to be learned, and the requirements for learning, are too diverse to be normalized.  For the purposes of this index, the Competency Index Editorial Board devised the following structure:
+关联数据能力指标是描述课程标准、学习对象或学习结果的非常典型的比较宽泛的一类文档。没有一个标准方法来制订能力指标（有时被称为能力框架）。因为需要学习的科目的范围和学习的需求都非常的多样化，因此没办法进行规范化。根据指标的目的，能力指标编委会设计了以下结构：
 
-__Topics__.  A topic is a theme under which a set of competencies are grouped, such as _Designing RDF-based vocabularies_ and _Maintaining RDF vocabularies_.  Topics are grouped under higher-level topic clusters, such as _RDF vocabularies and application profiles_.  
+__主题__.  主题是将一组能力分组的主题，例如_设计基于RDF的词汇表_ 和 _维护RDF词汇表_。  主题被分组在更高级别的主题集群中， 如 _RDF词汇表和应用纲要_.  
 
 __Competencies__.  A competency is a brief phrase characterizing knowledge (facts, insights, habits of mind, or skills) that may be learned.  Competencies may be used as building blocks for constructing self-learning plans, university courses, or even entire curricula.  Under the topic _Querying RDF Data_, for example, one finds two competencies: 
 
