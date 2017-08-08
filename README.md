@@ -4,7 +4,7 @@
 
 #### 编辑JSON的主文档
 
-Whenever a batch of changes is approved according to [processes described on the LDCI website](https://dcmi.github.io/ldci/process/), someone with write access to this repo needs to edit the [master JSON file](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json).  This is done as follows:
+根据[LDCI网站所描述的过程](https://dcmi.github.io/ldci/process/)，当一组修改被通过后, someone with write access to this repo needs to edit the [master JSON file](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json).  This is done as follows:
 
 * Go to http://rdf.tools => _ASN_ => _Configure_ => _Load ASN File_ => _Choose existing file_ => click on [D2695955.json](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json).  
     * The editor displays green if the JSON file has parsed correctly.
