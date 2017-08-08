@@ -1,8 +1,8 @@
-### Linked Data Competency Index
+### 关联数据能力指标
 
-This is the back-end repository used to generate a [documentation website](https://dcmi.github.io/ldci/) for the Linked Data Competency Index.  The website also supports the maintenance of the index by crowdsourcing.
+这是一个后台知识库，用来生成关联数据能力指标的[文档网站](https://dcmi.github.io/ldci/)。该网站还支持通过众包的方式来维护这些指标。
 
-#### Edit the master JSON file
+#### 编辑主要的JSON文件
 
 Whenever a batch of changes is approved according to [processes described on the LDCI website](https://dcmi.github.io/ldci/process/), someone with write access to this repo needs to edit the [master JSON file](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json).  This is done as follows:
 
