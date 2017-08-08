@@ -1,11 +1,11 @@
-### Writing effective competencies and benchmarks
+### 撰写有效的“能力”和“基准”
 
-| Competencies (understanding) | Benchmarks (doing) |
+| 能力 (理解) | 基准 (实施g) |
 | ------------------- | --------------- |
-| Understands         | Uses            |
-| Knows               | Expresses       |
-| Recognizes          | Demonstrates    |
-| Differentiates ...  | Converts ...    |
+| 理解         | 使用            |
+| 了解         | 表达       |
+| 识别          | 演示    |
+| 区别 ...  | 转化 ...    |
 
 1. Begin each competency or benchmark with an action verb.  Competencies start with verbs related to understanding. Benchmarks start with verbs about doing.
 
