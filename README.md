@@ -12,7 +12,7 @@
     * _Create_ tab: make edits here:
         * 点击右侧的空白处，左侧会自动填充相应的值.
         * 可以使用鼠标移动右边的内容来改变项目的顺序.
-        * A competency can be added by clicking on a topic and selecting _Add @@@_.
+        * 点击一个主题选择_Add @@@_增加能力.
         * Save work with _Submit_.
     * When the edits are done, press _Submit_ => _Download_ => _Download RDF_ => _Save_
         * RDF comes back out with the same filename.
