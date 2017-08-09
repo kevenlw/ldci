@@ -8,8 +8,8 @@
 
 * 进入 http://rdf.tools => _ASN_ => _Configure_ => _Load ASN File_ => _Choose existing file_ => 点击 [D2695955.json](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json).  
     * 如果JSON文档解析正确，编辑器会显示为绿色。
-    * _描述_ 标签:关于指标的元数据。
-    * _创建_ 标签:在此处进行编辑:
+    * _描述_ 标签:关于指标的元数据。
+    * _创建_ 标签:在此处进行编辑:
         * 点击右侧的空白处，左侧会自动填充相应的值。
         * 可以使用鼠标移动右边的内容来改变项目的顺序。
         * 可以通过点击主题，选择_Add @@@_来增加能力。
