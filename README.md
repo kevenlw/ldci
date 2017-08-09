@@ -14,10 +14,10 @@
         * 可以使用鼠标移动右边的内容来改变项目的顺序。
         * 可以通过点击主题，选择_Add @@@_来增加能力。
         * 点击 _Submit_进行保存。
-    * When the edits are done, press _Submit_ => _Download_ => _Download RDF_ => _Save_
-        * RDF comes back out with the same filename.
-        * Use this file to replace the [master JSON file](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json).
-        * Commit and push.
+    * 完成编辑后，按 _Submit_ => _Download_ => _Download RDF_ => _Save_的顺序提交保存。
+        * RDF返回相同的文件名。
+        * 使用此文件替换[JSON主文档](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json).
+        * 提交和推送。
 
 #### Submit the master JSON file to ASN and WordPress
 
