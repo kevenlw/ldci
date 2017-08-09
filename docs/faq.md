@@ -1,6 +1,6 @@
 ### 常见问答
 
-1. __如何应用关联数据能力指标？__  在LD4PE项目中，指标有两个主要的用途。它提供了关联数据领域的一个概览，老师和学习者可以使用此概览来设计大学课程，培训工作组或者自己制定学习计划。 它还提供了一组在元数据中使用的URI，根据主题或涵盖的能力来[标准培训资料](http://explore.dublincore.net/explore-learning-resources-by-competency/)。
+1. __如何应用关联数据能力指标？__  在LD4PE项目中，指标有两个主要的用途。它提供了关联数据领域的一个概览，老师和学习者可以使用此概览来设计大学课程，培训工作组或者自己制定学习计划。 它还提供了一组在元数据中使用的URI，根据主题或涵盖的能力来[标注培训资料](http://explore.dublincore.net/explore-learning-resources-by-competency/)。
 
 2. __为什么这些能力不进行编号以便容易参考？__  能力指标会随着时间不断地进化。原则上，主题，能力或者基准可以随时添加到指标中，这样可能会改变任一顺序编号系统的序号。因此，我们可能偶尔会发行较为稳定的版本。在这种情况下, 需要修改[用来创建Markdown文档的Python脚本](https://github.com/dcmi/ldci/tree/master/docs/D2695955_to_md.py) 以 x (集群), x.x (主题), x.x.x (能力), x.x.x.x (基准)的形式计算条目的数量.  有编号的版本对指标的翻译者也会有帮助 (参见[中文翻译](http://explore.dublincore.net/wp-content/uploads/sites/2/2015/09/LD4PECompetencyIndex-chinese.pdf)。如果你对此问题非常感兴趣，请在Github问题追踪系统中[发起一个问题](https://github.com/dcmi/ldci/issues)。
 
