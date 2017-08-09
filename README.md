@@ -12,8 +12,8 @@
     * _Create_ tab: make edits here:
         * 点击右侧的空白处，左侧会自动填充相应的值.
         * 可以使用鼠标移动右边的内容来改变项目的顺序.
-        *  点击一个主题选择_Add @@@_增加能力.
-        * 使用 _Submit_进行保存.
+        * 能力的增加可以通过点击主题和选择 _Add @@@_.
+        * Save work with _Submit_.
     * When the edits are done, press _Submit_ => _Download_ => _Download RDF_ => _Save_
         * RDF comes back out with the same filename.
         * Use this file to replace the [master JSON file](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json).
