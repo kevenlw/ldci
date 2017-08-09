@@ -32,7 +32,7 @@
 
 * 安装[mkdocs](http://mkdocs.org) 到本机(参见 [安装指南](http://www.mkdocs.org/#installation).
 * 运行命令 `mkdocs gh-deploy` (或使用[deploy.sh](https://github.com/dcmi/ldci/blob/master/deploy.sh)).   
-    * 此命令会创建(或刷新) 此网站 [https://dcmi.github.io/ldci/](https://dcmi.github.io/ldci/). 
+    * 此命令会创建或刷新此网站 [https://dcmi.github.io/ldci/](https://dcmi.github.io/ldci/). 
     * 此命令必须在该知识库的根目录下运行. 
-    * Behind the scenes, `mkdocs gh-deploy` builds HTML docs from the Markdown sources, uses the `ghp-import` tool to commit them to the `gh-pages` branch, and pushes the `gh-pages` branch to GitHub.
+    * Behind the scenes, `mkdocs gh-deploy` 通过Markdown创建HTML文档, 使用 `ghp-import` 工具提交至 `gh-pages` 分库, 推送 `gh-pages` 分库至GitHub.
 
