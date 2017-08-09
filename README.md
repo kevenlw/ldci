@@ -8,9 +8,9 @@
 
 * 进入 http://rdf.tools => _ASN_ => _Configure_ => _Load ASN File_ => _Choose existing file_ => click on [D2695955.json](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json).  
     * The editor displays green if the JSON file has parsed correctly.
-    * _Describe_ tab: 关于指标的元数据。
-    * _Create_ tab: make edits here:
-        * Clicking on a node (on the right) will populate the corresponding values (on the left).
+    * _Describe_ tab: metadata about the index.
+    * _Create_ tab: make edits here:
+        * 点击右侧的空白处，左侧会自动填充相应的值.
         * The order of items can be changed by moving things around, on the right, using the mouse.
         * A competency can be added by clicking on a topic and selecting _Add @@@_.
         * Save work with _Submit_.
