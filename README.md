@@ -15,9 +15,9 @@
         * 可以通过点击主题，选择_Add @@@_来增加能力。
         * 点击_Submit_进行保存。
     * 完成编辑后，按  _Submit_ => _Download_ => _Download RDF_ => _Save_的顺序提交保存。
-        * RDF返回相同的文件名。
-        * 使用此文件替换[JSON主文档](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json)。
-        * 提交和推送。
+        * RDF返回相同的文件名。
+        * 使用此文件替换[JSON主文档](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json)。
+        * 提交和推送。
 
 ####  向ASN and WordPress提交JSON主文档
 
