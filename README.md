@@ -13,11 +13,11 @@
         * 点击右侧的空白处，左侧会自动填充相应的值.
         * 可以使用鼠标移动右边的内容来改变项目的顺序.
         * 可以通过点击主题，选择 _Add @@@_来增加能力.
-        * 点击 _Submit_进行保存.
+        * 点击 _Submit_进行保存.
     * 完成编辑后，按  _Submit_ => _Download_ => _Download RDF_ => _Save_的顺序提交保存.
         * RDF返回相同的文件名.
         * 使用此文件替换[JSON主文档](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json).
-        * 提交和推送.
+        * 提交和推送.
 
 ####  向ASN and WordPress提交JSON主文档
 
