@@ -6,10 +6,10 @@
 
 根据[LDCI网站所描述的过程](https://dcmi.github.io/ldci/process/)，当一组修改被通过后, 拥有该知识库读写权限的人应该编辑[JSON主文档](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json)。编辑方法如下所示：
 
-* 进入 http://rdf.tools => _ASN_ => _Configure_ => _Load ASN File_ => _Choose existing file_ => 点击 [D2695955.json](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json).  
-    * 如果JSON文档解析正确，编辑器会显示为绿色.
-    * _描述_ 标签: metadata about the index.
-    * _Create_ tab: make edits here:
+* 进入 http://rdf.tools => _ASN_ => _Configure_ => _Load ASN File_ => _Choose existing file_ => click on [D2695955.json](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json).  
+    * The editor displays green if the JSON file has parsed correctly.
+    * _Describe_ tab: 关于指标的元数据。
+    * _Create_ tab: make edits here:
         * Clicking on a node (on the right) will populate the corresponding values (on the left).
         * The order of items can be changed by moving things around, on the right, using the mouse.
         * A competency can be added by clicking on a topic and selecting _Add @@@_.
