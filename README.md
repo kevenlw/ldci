@@ -21,7 +21,7 @@
 
 ####  向ASN and WordPress提交JSON主文档
 
-@@@ pending clarification with Joseph (for ASN) and the WordPress team
+@@@ 使用Joseph (for ASN) 和the WordPress team进行说明.
 
 #### 从JSON主文档生成一个Markdown文档
 
