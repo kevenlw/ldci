@@ -19,7 +19,7 @@
         * 使用此文件替换[JSON主文档](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json).
         * 提交和推送。
 
-#### Submit the master JSON file to ASN and WordPress
+####  向ASN and WordPress提交JSON主文档
 
 @@@ pending clarification with Joseph (for ASN) and the WordPress team
 
