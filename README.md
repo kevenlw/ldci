@@ -11,7 +11,7 @@
     * _Describe_ tab: metadata about the index.
     * _Create_ tab: make edits here:
         * 点击右侧的空白处，左侧会自动填充相应的值.
-        * The order of items can be changed by moving things around, on the right, using the mouse.
+        * 可以使用鼠标移动右边的内容来改变项目的顺序.
         * A competency can be added by clicking on a topic and selecting _Add @@@_.
         * Save work with _Submit_.
     * When the edits are done, press _Submit_ => _Download_ => _Download RDF_ => _Save_
