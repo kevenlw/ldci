@@ -16,7 +16,7 @@
         * 点击 _Submit_进行保存.
     * 完成编辑后，按  _Submit_ => _Download_ => _Download RDF_ => _Save_的顺序提交保存.
         * RDF返回相同的文件名.
-        * 使用此文件替换[JSON主文档](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json).
+        * 使用此文件替换[JSON主文档](https://github.com/dcmi/ldci/blob/master/docs/D2695955.json).
         * 提交和推送.
 
 ####  向ASN and WordPress提交JSON主文档
@@ -33,6 +33,6 @@
 * 安装[mkdocs](http://mkdocs.org) 到本机(参见 [安装指南](http://www.mkdocs.org/#installation).
 * 运行命令 `mkdocs gh-deploy` (或使用[deploy.sh](https://github.com/dcmi/ldci/blob/master/deploy.sh)).   
     * 此命令会创建或刷新此网站 [https://dcmi.github.io/ldci/](https://dcmi.github.io/ldci/). 
-    * 此命令必须在该知识库的根目录下运行. 
+    * 此命令必须在该知识库的根目录下运行. 
     * 在后台,`mkdocs gh-deploy` 通过Markdown创建HTML文档,使用`ghp-import`工具提交至`gh-pages`分库,然后推送`gh-pages`分库至GitHub.
 
