@@ -28,11 +28,11 @@
 * 使用[Makefile](https://github.com/dcmi/ldci/blob/master/docs/Makefile)中所示的Python 3来运行[D2695955_to_md.py](https://github.com/dcmi/ldci/blob/master/docs/D2695955_to_md.py).  这将会改写现有的文档, [D2695955.md](https://github.com/dcmi/ldci/blob/master/docs/D2695955.md).  
 * 提交和推送
 
-#### Build the website using MkDocs
+#### 使用MkDocs来创建网站
 
-* Install [mkdocs](http://mkdocs.org) on your machine (see [installation instructions](http://www.mkdocs.org/#installation).
-* Run the command `mkdocs gh-deploy` (or use [deploy.sh](https://github.com/dcmi/ldci/blob/master/deploy.sh)).  
-    * This command creates (or refreshes) the website at [https://dcmi.github.io/ldci/](https://dcmi.github.io/ldci/).  
+* 安装[mkdocs](http://mkdocs.org) 到本机(参见 [安装指南](http://www.mkdocs.org/#installation).
+* 运行命令 `mkdocs gh-deploy` (或使用[deploy.sh](https://github.com/dcmi/ldci/blob/master/deploy.sh)). 
+    * 此命令会创建(或刷新) 此网站 [https://dcmi.github.io/ldci/](https://dcmi.github.io/ldci/).  
     * The command must be run from the root directory of this repo.  
     * Behind the scenes, `mkdocs gh-deploy` builds HTML docs from the Markdown sources, uses the `ghp-import` tool to commit them to the `gh-pages` branch, and pushes the `gh-pages` branch to GitHub.
 
