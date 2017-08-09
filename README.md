@@ -23,10 +23,10 @@
 
 @@@ pending clarification with Joseph (for ASN) and the WordPress team
 
-#### Generate a Markdown file from the master JSON file
+#### 从JSON主文档生成一个Markdown文档
 
-* Run [D2695955_to_md.py](https://github.com/dcmi/ldci/blob/master/docs/D2695955_to_md.py) using Python 3 as shown in [Makefile](https://github.com/dcmi/ldci/blob/master/docs/Makefile).  This will over-write the existing file, [D2695955.md](https://github.com/dcmi/ldci/blob/master/docs/D2695955.md).  
-* Commit and push.
+* 使用[Makefile](https://github.com/dcmi/ldci/blob/master/docs/Makefile)中所示的Python 3来运行[D2695955_to_md.py](https://github.com/dcmi/ldci/blob/master/docs/D2695955_to_md.py).  这将会改写现有的文档, [D2695955.md](https://github.com/dcmi/ldci/blob/master/docs/D2695955.md).  
+* 提交和推送
 
 #### Build the website using MkDocs
 
