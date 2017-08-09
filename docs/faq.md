@@ -1,6 +1,6 @@
-### Frequently Asked Questions
+### 常见问答
 
-1. __How is the Linked Data Competency Index used in practice?__  In the LD4PE Project, the index had two primary uses.  It provided a overview of the Linked Data field that teachers and learners could use to design university courses, training workshops, or self-directed learning programs.  It also provided a set of URIs, for use in metadata, for [tagging tutorial resources](http://explore.dublincore.net/explore-learning-resources-by-competency/) in terms of topics or competencies covered.
+1. __如何应用关联数据能力指标？__  在LD4PE项目中，指标有两个主要的用途。它提供了关联数据领域的一个概览，老师和学习者可以使用此概览来设计大学课程，培训工作组或者自己制定学习计划。 它还提供了一组在元数据中使用的URI，根据主题或涵盖的能力来[标准培训资料](http://explore.dublincore.net/explore-learning-resources-by-competency/)。
 
 2. __Why are the competencies not numbered for easy reference?__  The competency index will evolve over time.  Topics, competencies, or benchmarks could, in principle, be added anywhere in the index, which would change the numbers of any sequential numbering system.  Conceivably, we could decide to issue occasional stable releases.  In this case, the [Python script for building the Markdown document](https://github.com/dcmi/ldci/tree/master/docs/D2695955_to_md.py) might then be modified to calculate item numbers on the model of x (clusters), x.x (topics), x.x.x (competencies), x.x.x.x (benchmarks).  Moving to numbered releases would also help translators of the index (see the [translation in Chinese](http://explore.dublincore.net/wp-content/uploads/sites/2/2015/09/LD4PECompetencyIndex-chinese.pdf).  If you feel strongly about this issue, please feel free to [open an issue](https://github.com/dcmi/ldci/issues) in the Github issue tracker.
 
